@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "ticker": "GOOG",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043",
+      "revenue": 182525000000,
+      "profit": 34326000000,
+      "recommendation": "Buy"
+    },
+    {
+      "ticker": "AAPL",
+      "address": "One Apple Park Way, Cupertino, CA 95014",
+      "revenue": 394325000000,
+      "profit": 99958000000,
+      "recommendation": "Buy"
+    },
+    {
+      "ticker": "AMD",
+      "address": "One AMD Place, Sunnyvale, CA 94089",
+      "revenue": 16083000000,
+      "profit": 3170000000,
+      "recommendation": "Buy"
+    },
+    {
+      "ticker": "NVDA",
+      "address": "17499 Tesla Avenue, Santa Clara, CA 95054",
+      "revenue": 26914000000,
+      "profit": 8707000000,
+      "recommendation": "Buy"
+    }
+  ]
+}
